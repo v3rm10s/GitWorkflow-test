@@ -1,0 +1,6 @@
+Creating project strucutre...
+Log file 1 created.
+Log file 2 created.
+Log file 3 created.
+Log file 4 created.
+Log file 5 created.
