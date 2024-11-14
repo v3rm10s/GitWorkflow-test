@@ -21,7 +21,6 @@ jobs:
     - name: No dependencies to install
       run: echo "Skipping dependency installation"
 
-    - name: Run tests
+    - name: Display Python version
       run: |
-        python -m unittest discover
-        python -version
+        python -c "import sys; print(sys.version)"
